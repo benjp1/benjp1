@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ben.
+- 👀 I’m interested in programming, software development and game development.
+- 🌱 I’m currently learning more programming languages.
+- 📫 How to reach me - ben.hello@hotmail.co.uk
